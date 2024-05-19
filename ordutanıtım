@@ -1,0 +1,15 @@
+{
+  "ordu": [
+    {
+      "isim": "Ohtamış Şelalesi",
+      "aciklama": "karadenizin en büuük şelalesidir tam bir doğa harikasıdır:
+",
+      "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/AtakumSahil.jpg"
+    },
+    {
+      "isim": "Boztepe",
+      "aciklama": "Boztepe Ordu'nun seyir terasıdır şehir ve deniz manzarası biraradadır.  ",
+      "fotourl": "https://raw.githubusercontent.com/bircany/SamsunTanitim/main/SahinkayaKanyonu.jpg"
+    }
+  ]
+}
