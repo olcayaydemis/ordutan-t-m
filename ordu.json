@@ -3,12 +3,13 @@
     {
       "isim": "Ohtamış Şelalesi",
       "aciklama": "Karadeniz'in en büyük şelalesidir, tam bir doğa harikasıdır.",
-      "fotourl": "https://raw.githubusercontent.com/olcayaydemis/ordutanitim/main/ce6a2f5b510f6009cb7d4ee6bc60c18d.jpg"
+      "fotourl": "https://raw.githubusercontent.com/olcayaydemis/ordutanitim/main/images.jpeg"
     },
     {
       "isim": "Boztepe",
       "aciklama": "Boztepe Ordu'nun seyir terasıdır, şehir ve deniz manzarası bir aradadır.",
-      "fotourl": "https://raw.githubusercontent.com/olcayaydemis/ordutanitim/main/images.jpeg"
+      "fotourl":  "https://raw.githubusercontent.com/olcayaydemis/ordutanitim/main/ce6a2f5b510f6009cb7d4ee6bc60c18d.jpg"
+      
     }
   ]
 }
